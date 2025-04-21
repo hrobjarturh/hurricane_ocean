@@ -1,0 +1,4 @@
+.venv
+data/cmems_mod_glo_bgc_my_0.25deg_P1D-m
+data/cmems_mod_glo_phy_my_0.083deg_P1D-m
+data/cmems_mod_glo_phy_myint_0.083deg_P1D-m

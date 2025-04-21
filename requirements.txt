@@ -1,0 +1,14 @@
+ipykernel
+numpy==1.26.4
+pandas==2.2.3
+xarray==2025.1.0
+netCDF4==1.7.2
+h5netcdf==1.4.1
+matplotlib==3.10.0
+cartopy
+cmocean
+scipy
+scikit-learn
+
+setuptools==74.1.2
+copernicusmarine==2.0.0
